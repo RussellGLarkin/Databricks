@@ -1,2 +1,2 @@
-# Databricks
-Databricks notebooks, workflows, and project code
+# Assignment 1B
+Implements and compares the use of LIME and SHAP for explaining a machine learning model trained on the breast cancer dataset. The workflow includes data loading, preprocessing, correlation analysis, model training with a neural network (MLPClassifier), followed by both local and global model interpretability analyses using LIME and SHAP. LIME is used to explain individual predictions and quantify feature importance through aggregated weights. SHAP provides visualizations explaining both single-instance and overall model behavior via force plots, heatmaps, and violin plots.
